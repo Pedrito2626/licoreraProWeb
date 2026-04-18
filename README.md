@@ -6,7 +6,8 @@ Sistema web de gestión de ventas e inventario para licorera. Permite registrar 
 
 ## Prototipo navegable
 
-🔗 [Enlace al prototipo](#) ← *Reemplazar con el enlace real*
+🔗 [Enlace al prototipo web](https://www.figma.com/make/Au6RAlIK0UnUKk4CDEVuDX/Dashboard-para-SalesFlow?t=iaTipdvEWn1qwSiB-20&fullscreen=1&preview-route=%2Fproductos)
+🔗 [Enlace al prototipo móvil](https://www.figma.com/make/yKnN4nBh2nSNQ2KMWp5g0Y/Minimalist-sidebar-component--Community-?t=WRqjjUl0LNCfbS0A-20&fullscreen=1&preview-route=%2Fproductos)
 
 ---
 
